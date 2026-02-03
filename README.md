@@ -100,7 +100,7 @@ The website is deployed as a **Google Apps Script Web App**.
 
 **Deployment settings:**  
 - Execute as: Me  
-- Access: Anyone with the link  
+- Access: Anyone within Village Enterprise  
 
 Updates are reflected automatically by updating the existing deployment.
 
